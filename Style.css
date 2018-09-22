@@ -1,0 +1,19 @@
+h1 {background-color: aquamarine;
+
+}
+
+.navbar li {display:inline-block; 
+            float:right;
+
+}
+
+@media(min-width: 500px)  {
+.sidebar {
+            float:right;
+    }
+
+.main {
+            float:left;
+
+}
+}
